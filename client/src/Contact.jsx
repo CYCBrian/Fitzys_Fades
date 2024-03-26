@@ -5,7 +5,6 @@ import instagramIcon from "./assets/logos/instagram-svgrepo-com.svg";
 import locationIcon from "./assets/logos/location-pin-svgrepo-com.svg";
 import phoneIcon from "./assets/logos/phone-svgrepo-com.svg";
 import fitzysExterior from "./assets/images/fitzys_fades_exterior.jpg";
-import "./test-delete-before-pushing.css";
 import { CREATE_MESSAGE } from "./utils/mutations";
 import { useMutation } from "@apollo/client";
 import { Link } from "react-router-dom";
