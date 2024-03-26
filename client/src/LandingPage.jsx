@@ -7,8 +7,6 @@ import fitzysExterior from "./assets/images/fitzys_fades_exterior.jpg";
 import leftImage from '/images/121.gif';
 import rightImage from '/images/121.gif';
 
-import "./test-delete-before-pushing.css";
-
 function LandingPage() {
   const { userProfile } = useAuth();
   const userRole = userProfile ? userProfile.role : null;
